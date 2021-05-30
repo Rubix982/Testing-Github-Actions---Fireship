@@ -9,5 +9,7 @@ try {
     document.getElementById('day').innerText = dayOfTheWeek();
 } catch(err) {}
 
-
 exports.dayOfTheWeek = dayOfTheWeek;
+
+console.log("hello, world, from Saif!");
+console.log("Second attempt");
